@@ -1,7 +1,7 @@
 # <Project title>
 
 **Course:** SE309 AI and Data Science for Innovation in Health Science · Fall 2026–27
-**Topic code:** SE309-XX   ·   **Working as:** Individual / Group (n members)  
+**Topic code:** SE309-10   ·   **Working as:** Individual
 **Agreed extra feature(s):** <only for groups of 4–5>
 
 <!--
@@ -15,8 +15,7 @@ HOW TO USE THIS TEMPLATE
 
 | Name | Student no. | GitHub username |
 |---|---|---|
-| <Full name> | <number> | @<username> |
-| <Full name> | <number> | @<username> |
+| Melih Demir | 200201048 | @melihdemirr |
 
 ## What the project does
 
